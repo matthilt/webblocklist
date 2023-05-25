@@ -4,6 +4,9 @@
 
 0.0.0.0 voice.google.com
 0.0.0.0 meet.google.com
+216.239.38.120 www.google.com
+216.239.38.120 www.google.ca
+216.239.38.120 plus.google.com
 
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: KIK
