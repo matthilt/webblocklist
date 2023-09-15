@@ -7,6 +7,8 @@
 0.0.0.0 discord.com
 0.0.0.0 discord.gg
 0.0.0.0 discordapp.com
+0.0.0.0 discord.app.com
+0.0.0.0 discordapp.net
 
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: KIK
